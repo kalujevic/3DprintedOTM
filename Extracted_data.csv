@@ -1,4 +1,4 @@
-﻿Species,Sex,Animal_ID,Mass,SVL,Trial,Microsite,OTM_type,MeanT,Variance(SD),Length(min)
+﻿Species,Sex,Animal_ID,Mass,SVL,Trial,Microsite,OTM_type,MeanT,SD,Length(min)
 Sceloporus_occidentalis,M,1,24.3,85.65,1,rock_shade,Lizard,17.65769,0.01847,2
 Sceloporus_occidentalis,M,1,24.3,85.65,1,rock_shade,ABS,18.87285,0.06376,2
 Sceloporus_occidentalis,M,1,24.3,85.65,1,rock_shade,PLA,18.75231,0.07307,2
