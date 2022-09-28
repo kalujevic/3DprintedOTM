@@ -109,3 +109,51 @@ Sceloporus_occidentalis,M,16,18,79.8,27,rock_sun,ABS,37.40369231,0.337786517,2
 Sceloporus_occidentalis,M,16,18,79.8,27,rock_sun,PLA,39.06069231,0.333440246,2
 Sceloporus_occidentalis,M,16,18,79.8,27,rock_sun,CopperPLA,37.82823077,1.161173627,2
 Sceloporus_occidentalis,M,16,18,79.8,27,rock_sun,CopperPipe,36.832,0.176714459,2
+Podarcis_muralis,M,PM126,6.76,NA,1,shade tree,Lizard,21.06923077,0.118213193,2
+Podarcis_muralis,M,PM126,6.76,NA,1,shade tree,Copper,20.99230769,0.08623165,2
+Podarcis_muralis,M,PM126,6.76,NA,1,shade tree,PLA,20.36923077,0.063042517,2
+Podarcis_muralis,M,PM126,6.76,NA,1,shade tree,ABS,20.33846154,0.076794765,2
+Podarcis_muralis,M,PM118,6.92,NA,2,shade tree,Lizard,23.43076923,0.063042517,2
+Podarcis_muralis,M,PM118,6.92,NA,2,shade tree,Copper,23.06923077,0.048038446,2
+Podarcis_muralis,M,PM118,6.92,NA,2,shade tree,PLA,22.02307692,0.059914469,2
+Podarcis_muralis,M,PM118,6.92,NA,2,shade tree,ABS,22.30769231,0.103774904,2
+Podarcis_muralis,M,PM134,9.14,NA,3,sun overcast,Lizard,27.03076923,0.103155347,2
+Podarcis_muralis,M,PM134,9.14,NA,3,sun overcast,Copper,27.76153846,0.132529629,2
+Podarcis_muralis,M,PM134,9.14,NA,3,sun overcast,PLA,26.21538462,0.098709623,2
+Podarcis_muralis,M,PM134,9.14,NA,3,sun overcast,ABS,27.65384615,0.14500221,2
+Podarcis_muralis,M,PM93,8.57,NA,4,sun,Lizard,29.64615385,0.096741792,2
+Podarcis_muralis,M,PM93,8.57,NA,4,sun,Copper,32.71538462,0.195133091,2
+Podarcis_muralis,M,PM93,8.57,NA,4,sun,PLA,28.54615385,0.189804218,2
+Podarcis_muralis,M,PM93,8.57,NA,4,sun,ABS,27.50769231,0.189127552,2
+Podarcis_muralis,M,PM94,6.3,NA,5,sun,Lizard,35.88461538,0.080064077,2
+Podarcis_muralis,M,PM94,6.3,NA,5,sun,Copper,33.69230769,0.175411604,2
+Podarcis_muralis,M,PM94,6.3,NA,5,sun,PLA,31.6,0.285773803,2
+Podarcis_muralis,M,PM94,6.3,NA,5,sun,ABS,33.46923077,0.295478751,2
+Podarcis_muralis,M,PM175,4.85,NA,6,sun,Lizard,37.67692308,0.204751256,2
+Podarcis_muralis,M,PM175,4.85,NA,6,sun,Copper,39.06153846,0.119292788,2
+Podarcis_muralis,M,PM175,4.85,NA,6,sun,PLA,35.89230769,0.193483584,2
+Podarcis_muralis,M,PM175,4.85,NA,6,sun,ABS,37.82307692,0.196442723,2
+Podarcis_muralis,M,PM138,6.05,NA,7,shade tree,Lizard,25.4,0,2
+Podarcis_muralis,M,PM138,6.05,NA,7,shade tree,Copper,24.33076923,0.103155347,2
+Podarcis_muralis,M,PM138,6.05,NA,7,shade tree,PLA,24.28461538,0.037553381,2
+Podarcis_muralis,M,PM138,6.05,NA,7,shade tree,ABS,25.4,0.13540064,2
+Podarcis_muralis,M,PM81,7.74,NA,8,shade tree,Lizard,24.9,0,2
+Podarcis_muralis,M,PM81,7.74,NA,8,shade tree,Copper,24.60769231,0.049354812,2
+Podarcis_muralis,M,PM81,7.74,NA,8,shade tree,PLA,23.71538462,0.05547002,2
+Podarcis_muralis,M,PM81,7.74,NA,8,shade tree,ABS,24.3,0.057735027,2
+Podarcis_muralis,M,PM172,8.27,NA,9,shade tree,Lizard,24.56923077,0.048038446,2
+Podarcis_muralis,M,PM172,8.27,NA,9,shade tree,Copper,24.03076923,0.085485041,2
+Podarcis_muralis,M,PM172,8.27,NA,9,shade tree,PLA,23.77692308,0.043852901,2
+Podarcis_muralis,M,PM172,8.27,NA,9,shade tree,ABS,24.47692308,0.059914469,2
+Podarcis_muralis,M,PM154,9.05,NA,10,shade under covered pathway,Lizard,24.84615385,0.051887452,2
+Podarcis_muralis,M,PM154,9.05,NA,10,shade under covered pathway,Copper,24.79230769,0.02773501,2
+Podarcis_muralis,M,PM154,9.05,NA,10,shade under covered pathway,PLA,24.81538462,0.037553381,2
+Podarcis_muralis,M,PM154,9.05,NA,10,shade under covered pathway,ABS,24.93846154,0.050636968,2
+Podarcis_muralis,M,PM73,7.07,NA,11,sun,Lizard,35.92307692,0.059914469,2
+Podarcis_muralis,M,PM73,7.07,NA,11,sun,Copper,34.44615385,0.411532471,2
+Podarcis_muralis,M,PM73,7.07,NA,11,sun,PLA,34.57692308,0.169085019,2
+Podarcis_muralis,M,PM73,7.07,NA,11,sun,ABS,33.70769231,0.08623165,2
+Podarcis_muralis,M,PM174,8.03,NA,12,sun,Lizard,34.57692308,0.059914469,2
+Podarcis_muralis,M,PM174,8.03,NA,12,sun,Copper,35.07692308,0.274329018,2
+Podarcis_muralis,M,PM174,8.03,NA,12,sun,PLA,34.49230769,0.095407359,2
+Podarcis_muralis,M,PM174,8.03,NA,12,sun,ABS,34.77692308,0.158922655,2
