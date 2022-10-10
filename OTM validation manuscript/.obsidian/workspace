@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "24b3946a8de1a88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a87fc54058938c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "List of papers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30167616dbb0f583",
+    "type": "split",
+    "children": [
+      {
+        "id": "6553ef637779259e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e562d56fa44bd86a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ae0ea17cca5735f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a504139b98eebcf0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c2bd0b354f14046",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0a31885547fb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb196a95112aee66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "List of papers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d5ba980540946a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "List of papers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0762c6a7ce2d4c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfba86a672dab7b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "List of papers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40a87fc54058938c",
+  "lastOpenFiles": [
+    "O’Connor, M.P., 1999..md",
+    "List of papers.md",
+    "O’Connor, M.P., 2000..md",
+    "temperature.md",
+    "2022-10-10.md"
+  ]
+}
