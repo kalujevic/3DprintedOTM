@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0f73ba16b1504b",
+        "id": "41e51d30eaa2c69e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Papers/Camacho, A. et al. (2015).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Camacho, A. et al. (2015).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Camacho, A. et al. (2015).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Papers/Camacho, A. et al. (2015).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef0f73ba16b1504b",
+  "active": "41e51d30eaa2c69e",
   "lastOpenFiles": [
-    "List of papers.md",
+    "Untitled.md",
     "Papers/Camacho, A. et al. (2015).md",
+    "List of papers.md",
     "Papers/Brewster, C.L. and Beaupre, S.J. (2019).md",
     "Papers/Bartelt, P.E. and Peterson, C.R. (2005).md",
     "Papers/Bakken, G.S. and Angilletta M.J. (2014).md",
     "Papers/Bakken, G.S. (1992).md",
     "Papers/Bakken and Gates, 1975.md",
     "Papers/Christian, K.A. et al. (2006).md",
-    "Papers/Bakken, G.S. (1981).md",
-    "operative temperrature.md"
+    "Papers/Bakken, G.S. (1981).md"
   ]
 }
