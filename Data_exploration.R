@@ -97,3 +97,56 @@ Extracted_data_restructured %>%
   geom_abline(intercept = 0, slope = 1)
   
 ggsave("Podarcis_muralis_validation_across_microsites.pdf", height = 6, width = 8)
+
+
+
+################ Anolis gundlachi #################
+
+
+## plotting the relationship between lizard temperature and each of the models across microsites
+
+Extracted_data_restructured %>%
+  filter (Species=="Anolis_gundlachi") %>%
+  ggplot(aes(x=LizardT,y=MeanT)) + 
+  geom_point(aes(colour=OTM_type,shape=Microsite),size=2) + 
+  stat_smooth(aes(colour=OTM_type,fill=OTM_type),method='lm',linetype='dashed', alpha=0.25) +
+  ggtitle(~bold("OTM validation")~bolditalic("Anolis gundlachi")) +
+  scale_x_continuous(name='Lizard Temperature (°C)') + 
+  scale_y_continuous(name='Model Temperature (°C)') + 
+  theme_bw() +
+  theme(plot.title = element_text(size = 14, colour="black",face = "bold",hjust = 0.5),
+        axis.title = element_text(size=12, face = "bold"),
+        legend.title = element_text(size = 12, colour="black",face = "bold",vjust = 1),
+        legend.text = element_text(size=10),
+        panel.grid.minor = element_blank(),
+        panel.grid.major = element_blank()) +
+  geom_abline(intercept = 0, slope = 1)
+
+ggsave("Anolis_gundlachi_validation_across_microsites.pdf", height = 6, width = 8)
+
+
+
+
+################ Anolis pulchellus #################
+
+
+## plotting the relationship between lizard temperature and each of the models across microsites
+
+Extracted_data_restructured %>%
+  filter (Species=="Anolis_pulchellus") %>%
+  ggplot(aes(x=LizardT,y=MeanT)) + 
+  geom_point(aes(colour=OTM_type,shape=Microsite),size=2) + 
+  stat_smooth(aes(colour=OTM_type,fill=OTM_type),method='lm',linetype='dashed', alpha=0.25) +
+  ggtitle(~bold("OTM validation")~bolditalic("Anolis pulchellus")) +
+  scale_x_continuous(name='Lizard Temperature (°C)') + 
+  scale_y_continuous(name='Model Temperature (°C)') + 
+  theme_bw() +
+  theme(plot.title = element_text(size = 14, colour="black",face = "bold",hjust = 0.5),
+        axis.title = element_text(size=12, face = "bold"),
+        legend.title = element_text(size = 12, colour="black",face = "bold",vjust = 1),
+        legend.text = element_text(size=10),
+        panel.grid.minor = element_blank(),
+        panel.grid.major = element_blank()) +
+  geom_abline(intercept = 0, slope = 1)
+
+ggsave("Anolis_pulchellus_validation_across_microsites.pdf", height = 6, width = 8)
