@@ -1,0 +1,46 @@
+﻿Species,Material,Dimensions_L,Dimensions_H,Dimensions_W,SVL_mm,Time,Time_min,Layer_height_mm,"Shell_coefficient(0.4mm PLA/ABS, 0.6mm Copper PLA)",Shell_thickness,Infill_density_%,Material_g,Material_m,Cost_$,Cost_copper_adjusted,Supports,File_name,Validation_done,Notes
+Sceloporus_occidentalis,ABS,,,,75.3,2:18:00,138,0.15,1.5,0.6,0,8.8,,0.3,,Y,SoccidentalisScaled3_ABS,Y,
+Sceloporus_occidentalis,PLA,,,,75.3,2:19:00,139,0.15,1.5,0.6,0,9.7,,0.3,,Y,SoccidentalisScaled3_PLA,Y,
+Sceloporus_occidentalis,CopperPLA,,,,75.3,1:35:00,95,0.15,1,0.6,0,9.6,,0.3,0.56,Y,SoccidentalisScaled3_CopperPLA,Y,
+Scelopoorus_uniformis,ABS,,,,92.1,4:52:06,292.1,0.15,1.5,0.6,0,16.7,6.2,0.5,,Y,Suniformis_ABS,N,
+Scelopoorus_uniformis,PLA,,,,92.1,4:53:14,293.23,0.15,1.5,0.6,0,20.5,6.88,0.62,,Y,Suniformis_PLA_modified,N,
+Scelopoorus_uniformis,CopperPLA,,,,92.1,3:22:20,202.33,0.15,1,0.6,0,18.3,6.13,0.55,1.06,Y,Suniformis_copper,N,
+Sceloporus_graciosus,ABS,,,,51.6,1:16:11,76.18,0.15,1.5,0.6,0,4.5,1.67,0.14,,Y,Sgraciosus_ABS,N,
+Sceloporus_graciosus,PLA,,,,51.6,1:16:52,76.87,0.15,1.5,0.6,0,5,1.67,0.15,,Y,Sgraciosus_PLA_single_bedtemp70,N,
+Sceloporus_graciosus,CopperPLA,,,,51.6,12:56:27,776.45,0.15,1,0.6,0,5,1.67,0.15,0.29,Y,Sgraciosus_copper_double,N,
+Sceloporus_consobrinus_Gifford,ABS,,,,,1:10:52,70.87,0.15,1.5,0.6,0,4.6,1.7,0.14,,Y,Sconsobrinus4_ABS_modified,,
+Sceloporus_consobrinus_Gifford,PLA,,,,,1:11:18,71.3,0.15,1.5,0.6,0,4.6,1.53,0.14,,Y,Sconsobrinus4_PLA_modified,,
+Sceloporus_consobrinus_Gifford,CopperPLA,,,,,12:50:39,770.65,0.15,1,0.6,0,4.5,1.51,0.13,0.26,Y,Sconsobrinus4_CopperPLA,,
+Crotaphytus_collaris,ABS,,,,91.5,3:54:00,234,0.15,1.5,0.6,0,16.1,,0.5,,Y,Ccollaris3_ABS_scaled_X_135.43_moved,,
+Crotaphytus_collaris,PLA,,,,91.5,3:57:00,237,0.15,1.5,0.6,0,17.8,,0.5,,Y,Ccollaris3_PLA_modified nozzle 235 bed 70_scaled_X_135.43,,
+Crotaphytus_collaris,CopperPLA,,,,91.5,2:45:00,165,0.15,1,0.6,0,17.6,,0.5,1.02,Y,Ccollaris3_CopperPLA_scaled_X_135.43,,
+Podarcis_muralis,ABS,,,,,1:37:33,97.55,0.15,1.5,0.6,0,6,2.24,0.18,,Y,Pmuralis2_ABS,Y,
+Podarcis_muralis,PLA,,,,,1:38:15,98.25,0.15,1.5,0.6,0,6.7,2.24,0.2,,Y,Pmuralis2_PLA_modified,Y,
+Podarcis_muralis,CopperPLA,,,,,1:11:11,71.18,0.15,1,0.6,0,6,2,0.18,0.35,Y,Pmuralis2_CopperPLA,Y,
+Anolis_sagrei,ABS,,,,51.8,12:57:31,777.52,0.15,1.5,0.6,0,3.6,1.33,0.11,,Y,Asagrei_tail_ABS,Y,
+Anolis_sagrei,PLA,,,,51.8,12:58:30,778.5,0.15,1.5,0.6,0,4,1.33,0.12,,Y,Asagrei_tail_PLA,Y,
+Anolis_sagrei,CopperPLA,,,,51.8,12:43:12,763.2,0.15,1,0.6,0,3.9,1.32,0.12,0.23,Y,Asagrei__tail_CopperPLA,Y,
+Anolis_carolinensis,ABS,,,,,12:34:13,754.22,0.15,1.5,0.6,0,2.1,0.79,0.06,,Y,Acarolinensis_ABS,,
+Anolis_carolinensis,PLA,,,,,12:34:38,754.63,0.15,1.5,0.6,0,2.4,0.79,0.07,,Y,Acarolinensis_PLA,,
+Anolis_carolinensis,CopperPLA,,,,,12:24:26,744.43,0.15,1,0.6,0,2.3,0.78,0.07,0.13,Y,Acarolinensis_CopperPLA,,
+Anolis_cristatellus,ABS,,,,,12:36:57,756.95,0.15,1.5,0.6,0,2.3,0.87,0.07,,Y,Acristatellus_ABS,Y/N,Luke used gundlachi models to validate it on cristatellus
+Anolis_cristatellus,PLA,,,,,12:37:27,757.45,0.15,1.5,0.6,0,2.6,0.87,0.08,,Y,Acristatellus_PLA,Y/N,Luke used gundlachi models to validate it on cristatellus
+Anolis_cristatellus,CopperPLA,,,,,12:26:58,746.97,0.15,1,0.6,0,2.6,0.86,0.08,0.15,Y,Acristatellus_CopperPLA,Y/N,Luke used gundlachi models to validate it on cristatellus
+Agama_picticauda,ABS,,,,93.8,3:44:08,224.13,0.15,1.5,0.6,0,14.5,5.39,0.44,,Y,Apicticauda_ABS,N,
+Agama_picticauda,PLA,,,,93.8,3:45:11,225.18,0.15,1.5,0.6,0,16.1,5.39,0.48,,Y,Apicticauda_PLA,N,
+Agama_picticauda,CopperPLA,,,,93.8,2:36:25,156.42,0.15,1,0.6,0,15.9,5.32,0.48,0.92,Y,Apicticauda_CopperPLA,N,
+Plestiodon_fasciatus,ABS,,,,,12:59:05,779.08,0.15,1.5,0.6,0,4.2,1.57,0.13,,Y,Pfasciatus_ABS,N,
+Plestiodon_fasciatus,PLA,,,,,1:00:59,60.98,0.15,1.5,0.6,0,4.7,1.57,0.14,,Y,Pfasciatus_PLA,N,
+Plestiodon_fasciatus,CopperPLA,,,,,12:43:14,763.23,0.15,1,0.6,0,4.6,1.56,0.14,0.27,Y,Pfasciatus_CopperPLA,N,
+Sceloporus_olivaceus,ABS,,,,78.8,2:31:25,151.42,0.15,1.5,0.6,0,9.9,3.67,0.3,,Y,Solivaceous_ABS,N,
+Sceloporus_olivaceus,PLA,,,,78.8,2:32:19,152.32,0.15,1.5,0.6,0,10.9,3.67,0.33,,Y,Solivaceous_PLA,N,
+Sceloporus_olivaceus,CopperPLA,,,,78.8,1:44:46,104.77,0.15,1,0.6,0,10.8,3.61,0.32,0.63,Y,Solivaceous_CopperPLA,N,
+Sceloporus_consobrinus_Frishkoff,ABS,,,,,12:50:57,770.95,0.15,1.5,0.6,0,3.3,1.23,0.1,,Y,sconsobrinus_frishkoff_ABS,N,
+Sceloporus_consobrinus_Frishkoff,PLA,,,,,12:51:25,771.42,0.15,1.5,0.6,0,3.7,,0.11,,Y,sconsobrinus_frishkoff_PLA,N,
+Sceloporus_consobrinus_Frishkoff,CopperPLA,,,,,12:36:50,756.83,0.15,1,0.6,0,3.6,,0.11,0.21,Y,sconsobrinus_frishkoff_CopperPLA,N,
+Anolis_gundlachi,ABS,,,,,1:02:36,62.6,0.15,1.5,0.6,0,3.9,1.46,0.12,,Y,agundlachi_tail_ABS,Y,Luke used gundlachi models to validate it on cristatellus in addition to gundlachi
+Anolis_gundlachi,PLA,,,,,1:03:39,63.65,0.15,1.5,0.6,0,4.4,1.46,0.13,,Y,agundlachi_tail_PLA,Y,Luke used gundlachi models to validate it on cristatellus in addition to gundlachi
+Anolis_gundlachi,CopperPLA,,,,,12:46:03,766.05,0.15,1,0.6,0,4.3,1.46,0.13,0.25,Y,agundlachi_tail_CopperPLA,Y,Luke used gundlachi models to validate it on cristatellus in addition to gundlachi
+Anolis_pulchellus,ABS,,,,,12:29:33,749.55,0.15,1.5,0.6,0,1.8,0.66,0.05,,Y,apulchellus_ABS,Y,
+Anolis_pulchellus,PLA,,,,,12:29:57,749.95,0.15,1.5,0.6,0,2,0.66,0.06,,Y,apulchelus_PLA_triple,Y,gcode is for triple but parameters are for single model
+Anolis_pulchellus,CopperPLA,,,,,12:22:19,742.32,0.15,1,0.6,0,1.9,0.65,0.06,0.11,Y,apulchellus_CopperPLA,Y,

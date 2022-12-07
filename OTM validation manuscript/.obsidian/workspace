@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "List of papers.md",
+            "file": "null model.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of papers.md",
+                "file": "null model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of papers.md",
+                "file": "null model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of papers.md"
+                "file": "null model.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "41e51d30eaa2c69e",
   "lastOpenFiles": [
+    "Papers/Bakken, G.S. (1981).md",
+    "Papers/Bakken and Gates, 1975.md",
+    "Keywords/heat transfer.md",
+    "List of papers.md",
     "Untitled.md",
     "Papers/Camacho, A. et al. (2015).md",
-    "List of papers.md",
     "Papers/Brewster, C.L. and Beaupre, S.J. (2019).md",
     "Papers/Bartelt, P.E. and Peterson, C.R. (2005).md",
     "Papers/Bakken, G.S. and Angilletta M.J. (2014).md",
-    "Papers/Bakken, G.S. (1992).md",
-    "Papers/Bakken and Gates, 1975.md",
-    "Papers/Christian, K.A. et al. (2006).md",
-    "Papers/Bakken, G.S. (1981).md"
+    "Papers/Bakken, G.S. (1992).md"
   ]
 }
